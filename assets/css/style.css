@@ -14,3 +14,12 @@ body {
 .task-card:hover {
   cursor: grab;
 }
+
+.warning {
+  box-shadow: 6px 3px 3px rgb(245, 113, 5, 0.6);
+}
+
+.late {
+  box-shadow: 6px 3px 3px rgb(247, 6, 6, 0.6);
+}
+
